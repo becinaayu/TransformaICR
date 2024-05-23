@@ -9,7 +9,7 @@ import Home from './pages/Home'
 // import Apoio from './pages/ApoioPsicologico'
 
 //import './index.css'
-import './style/style.css'
+import './Style/style.css'
 
 
 
